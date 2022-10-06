@@ -2,6 +2,18 @@
 
 https://movie-app-jasonlim.vercel.app/
 
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/194298810-24ee82a9-2163-47d5-9c3e-d439fb70acf9.png)
+
+npm run dev
+npm install @heroicons/react
+npm install tailwindcss-textshadow
+npm install tailwind-scrollbar-hide
+npm install tailwind-scrollbar
+npm install recoil
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-player
+npm install react-icons
+
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Deploy your own
